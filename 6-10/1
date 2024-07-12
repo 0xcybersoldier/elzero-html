@@ -1,0 +1,55 @@
+<!-- Type Question 1 Answer Below -->
+"<!DOCTYPE html>"
+
+<!-- Type Question 2 Answer Below -->
+"Quirks Mode"
+
+<!-- Type Question 3 Answer Below -->
+"no"
+
+<!-- Type Question 4 Answer Below -->
+"no"
+
+<!-- Type Question 5 Answer Below -->
+"headings"
+<p class="element">Welcome To The New World</p>
+<p class='element'>Welcome To The New World</p>
+<p class=element>Welcome To The New World</p>
+Answer = no 
+
+
+<p class=element hidden>Welcome To The New World</p>
+<p class="element" hidden>Welcome To The New World</p>
+
+Answer = no 
+
+<p>Hello World</p>
+
+<p>
+Hello World
+</p>
+
+<p>
+Hello
+World
+</p>
+
+<p>
+Hello
+
+
+World
+</p>
+
+Answer = Yes
+
+<!-- List of Attributes
+title - Global Attribute
+href - Not a Global Attribute (specific to elements like <a>, <link>, <base>)
+src - Not a Global Attribute (specific to elements like <img>, <script>, <iframe>)
+hidden - Global Attribute
+charset - Not a Global Attribute (specific to elements like <meta>)
+class - Global Attribute
+id - Global Attribute
+type - Not a Global Attribute (specific to elements like <input>, <button>, <script>, <style>) -->
+    
